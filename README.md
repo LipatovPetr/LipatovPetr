@@ -26,8 +26,6 @@
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="40" height="40"/></a>
 </p>
 Инструменты:
-### Инструменты:
-
 <p align="left">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
