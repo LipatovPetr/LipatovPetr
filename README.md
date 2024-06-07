@@ -57,6 +57,8 @@
     <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="webpack" width="40" height="40"/></a>
     <a href="https://ipfs.tech/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt="webpack" width="40" height="40"/></a>
+    <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/26492485?s=280&v=4" alt="webpack" width="40" height="40"/></a>
 </p>
 
 
