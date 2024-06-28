@@ -1,15 +1,13 @@
 ### Hi 👋
 
-Меня зовут Петр, я фронтенд-разработчик с опытом более 2 лет. 
+My name is Peter, and I am a frontend developer with over 2 years of experience.
 
-Я ищу команду, которая станет моим первым местом работы.
+I am looking for a team to be my first workplace.
 
-В 2022 году я решил поменять карьеру, ушел с предыдущей работы в маркетинге и полностью сосредоточился на разработке.
-
-Помимо собственных проектов и практики, я успешно завершил 18-месячное обучение в Яндекс Практикуме по направлению "Фулстек разработка". В настоящее время мне посчастливилось проходить курс "Computer Science во Frontend" от Андрея Кобеца. 
+In 2022, I decided to change my career, left my previous job in marketing, and fully focused on development.
 
 
-### Технологии:
+### Technologies:
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -19,7 +17,7 @@
     <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png" alt="solidity" width="40" height="40"/></a>
 </p>
 
-### Фреймворки и библиотеки:
+### Frameworks & Libraries:
 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
@@ -31,7 +29,7 @@
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="40" height="40"/></a>
 </p>
 
-### Инструменты:
+### Tools:
 
 <p align="left">
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
