@@ -2,8 +2,6 @@
 
 My name is Peter, and I am a frontend developer with over 2 years of experience.
 
-I am looking for a team to be my first workplace.
-
 In 2022, I decided to change my career, left my previous job in marketing, and fully focused on development.
 
 
